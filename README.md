@@ -53,4 +53,4 @@ npm start
 ## How to Reach me :
 ### Mail : omoiza@ttu.edu
 
-# [LinkedIn](https://www.linkedin.com/in/ohinoyi-moiza)
+#### [LinkedIn](https://www.linkedin.com/in/ohinoyi-moiza)
