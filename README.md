@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/28294942/137707143-5db5ccac-f475-42b5-
 
  ## Live Demonstration
 
-The E-commerce web application can be [viewed online here](https://jb-ecommerce-demo.herokuapp.com/).
+The E-commerce web application can be [viewed online here]().
 
 Here are screenshots that show the E-commerce demo application in use.
 
@@ -53,4 +53,4 @@ npm start
 ## How to Reach me :
 ### Mail : omoiza@ttu.edu
 
-### LinkedIn: https://www.linkedin.com/in/ohinoyi-moiza
+# [LinkedIn](https://www.linkedin.com/in/ohinoyi-moiza)
