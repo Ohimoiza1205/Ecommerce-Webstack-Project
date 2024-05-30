@@ -18,12 +18,12 @@ Here are screenshots that show the E-commerce demo application in use.
 ---
 
 **Item Detail Page**
-![Item Detail](https://drive.google.com/file/d/1WQ3V6oBaWiQK-prlSy95bVAjzpoACiLj/view?usp=sharing)
+![Item Detail](https://github.com/Ohimoiza1205/Ecommerce-Webstack-Project/assets/163584196/3fa468ea-136c-408a-989a-ce4ac4acae9b)
 
 ---
 
 **Sign Up Page**
-![Sign Up](https://drive.google.com/file/d/10p8n6OqcuMWA6fbCDyUd1AK7oqOSftxG/view?usp=sharing)
+![Sign Up](https://github.com/Ohimoiza1205/Ecommerce-Webstack-Project/assets/163584196/171156c9-4d9c-4e69-a805-9b8c3334dd56)
 
 ## Getting Started
 To get started  you can simply clone this `Ecommerce-Webstack-Project` repository and install the dependencies.
