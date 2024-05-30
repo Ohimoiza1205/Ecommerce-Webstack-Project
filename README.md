@@ -13,7 +13,7 @@ The E-commerce web application can be [viewed online here](http://127.0.0.1:5500
 Here are screenshots that show the E-commerce demo application in use.
 
 **Home Page**
-![Home Page](https://drive.google.com/file/d/1Wp7w-pUFkRyAOsPrKxVCrmfW8nPewOSu/view?usp=sharing)
+![Home Page](https://github.com/Ohimoiza1205/Ecommerce-Webstack-Project/assets/163584196/6f9e0c1c-8841-4455-b0dd-264c2e2cd481)
 
 ---
 
