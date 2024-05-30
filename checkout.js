@@ -9,7 +9,7 @@ window.onload = function () {
     const ccsingle = document.getElementById('ccsingle');
     const generatecard = document.getElementById('generatecard');
     
-    
+
     let cctype = null;
     
     //Mask the Credit Card Number Input
