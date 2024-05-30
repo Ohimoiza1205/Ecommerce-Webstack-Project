@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/28294942/137707143-5db5ccac-f475-42b5-
 
  ## Live Demonstration
 
-The E-commerce web application can be [viewed online here]().
+The E-commerce web application can be [viewed online here](http://127.0.0.1:5500/Ecommerce-Website-main/index.html).
 
 Here are screenshots that show the E-commerce demo application in use.
 
