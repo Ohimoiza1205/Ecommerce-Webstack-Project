@@ -350,6 +350,7 @@ input {
     transform: rotateY(180deg);
 }
 
+
 .creditcard.flipped {
     -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
