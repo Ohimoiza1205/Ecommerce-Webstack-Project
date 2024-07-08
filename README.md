@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/28294942/137707143-5db5ccac-f475-42b5-
 
  ## Live Demonstration
 
-The E-commerce web application can be [viewed online here]([https://tech-bay.netlify.app/]).
+The E-commerce web application can be [viewed online here](https://tech-bay.netlify.app/).
 
 Here are screenshots that show the E-commerce demo application in use.
 
