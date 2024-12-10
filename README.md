@@ -4,6 +4,7 @@ This is a top class E-commerce website Development project made by the combinati
 
 ### Click on play button to see Demo:
 https://github.com/Ohimoiza1205/Ecommerce-Webstack-Project/blob/main/video/screen-record-06-01-2024.mp4
+https://user-images.githubusercontent.com/28294942/137707143-5db5ccac-f475-42b5-9065-0788094b70db.mov
 
  ## Live Demonstration
 
