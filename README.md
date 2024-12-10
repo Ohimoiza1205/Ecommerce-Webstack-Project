@@ -6,8 +6,6 @@ This is a top class E-commerce website Development project made by the combinati
 
 https://user-images.githubusercontent.com/28294942/137707143-5db5ccac-f475-42b5-9065-0788094b70db.mov
 
-https://user-images.githubusercontent.com/images/screen-record-06-01-2024.mov
-
  ## Live Demonstration
 
 The E-commerce web application can be [viewed online here](https://tech-bay.netlify.app/).
