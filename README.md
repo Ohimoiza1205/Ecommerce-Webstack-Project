@@ -2,10 +2,6 @@
 
 This is a top class E-commerce website Development project made by the combination of front end programming languages such as HTML, CSS &amp; JS. This application allows users can select to display products in a single category. Users can click on any product to get more information including pricing, reviews and rating. Users can select items and add them to their shopping cart
 
-### Click on play button see Demo:
-
-https://user-images.githubusercontent.com/28294942/137707143-5db5ccac-f475-42b5-9065-0788094b70db.mov
-
  ## Live Demonstration
 
 The E-commerce web application can be [viewed online here](https://tech-bay.netlify.app/).
